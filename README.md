@@ -35,7 +35,6 @@
    结合宏观经济指标（如CPI、PMI）进行择时干预。
    优化仓位管理，引入凯利公式动态调整仓位。
    
-<img width="973" height="528" alt="strategy_result png" src="https://github.com/user-attachments/assets/a4b5af71-dd09-4a2a-96d6-60109cd20eb4" />
 <img width="980" height="528" alt="strategy_result png2" src="https://github.com/user-attachments/assets/b76ca1aa-c8f4-456f-8799-3d9d1e20f38e" />
 <img width="980" height="528" alt="strategy_result png3" src="https://github.com/user-attachments/assets/75564290-a28d-49b4-bee8-6437550352da" />
 
