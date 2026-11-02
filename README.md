@@ -23,17 +23,23 @@
 | 最大回撤 | -45.10% | -32.21% | 显著降低尾部风险，提升持仓体验 |
 | 夏普比率 | 0.07 | 0.12 | 风险调整后收益性价比近翻倍 |
 
-(注：你可以把今天跑的“策略资金曲线对比图”截图，直接拖拽到这里上传)
-
  💡 统计分析与结论
+ 
 1. 过滤噪音：将均线窗口从短周期（5/20）拉长至中长周期（10/60），有效过滤了震荡市中的假信号，减少了交易磨损。
 2. 风控价值：在2022-2024年的单边下跌行情中，策略通过死叉信号及时空仓，成功避开主跌浪，将最大回撤从45%压制在32%左右。
 3. 动量效应：证明了A股市场存在一定的趋势惯性，严格执行交易纪律能有效克服人性弱点。
 
- 🚀 未来优化方向
+🚀 未来优化方向
+
    引入机器学习模型（如随机森林/XGBoost）进行多因子选股。
    结合宏观经济指标（如CPI、PMI）进行择时干预。
    优化仓位管理，引入凯利公式动态调整仓位。
+   
+<img width="973" height="528" alt="strategy_result png" src="https://github.com/user-attachments/assets/a4b5af71-dd09-4a2a-96d6-60109cd20eb4" />
+<img width="980" height="528" alt="strategy_result png2" src="https://github.com/user-attachments/assets/b76ca1aa-c8f4-456f-8799-3d9d1e20f38e" />
+<img width="980" height="528" alt="strategy_result png3" src="https://github.com/user-attachments/assets/75564290-a28d-49b4-bee8-6437550352da" />
 
+
+ 
 ---
 声明：本项目为个人学习与研究用途，不构成任何投资建议。
